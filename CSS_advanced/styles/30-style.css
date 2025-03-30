@@ -371,3 +371,7 @@ ul.row {
   right: 0;
   content: "";
 }
+
+.card-work:hover .card-title {
+  opacity: 1;
+}
