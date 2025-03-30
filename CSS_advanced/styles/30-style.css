@@ -330,14 +330,14 @@ ul.row {
   overflow: hidden;
 }
 
-.card-word .card-image img {
+.card-work .card-image img {
   height: 30rem;
   width: 100%;
   object-fit: cover;
   bottom: 0;
 }
 
-.card-word .card-inner {
+.card-work .card-inner {
   position: absolute;
   top: -0.1rem;
   left: -0.1rem;
@@ -357,7 +357,7 @@ ul.row {
   position: relative;
 }
 
-.card-word .card-title a {
+.card-work .card-title a {
   display: block;
   text-decoration: none;
   padding-top: 45%;
